@@ -1,5 +1,5 @@
-CAT.jpg
-nastya.png
-SUS.png
-SONIC.png
-GAY.png
+CAT.jpg>N
+nastya.png>N
+SUS.png>C
+SONIC.png>O
+GAY.png>O
